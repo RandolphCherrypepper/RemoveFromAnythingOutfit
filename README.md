@@ -18,7 +18,7 @@ Mod Order: Anywhere below HugsLib.
 Feel free to leave a comment if you run into a problem.
 
 Steam Download:
-http://steamcommunity.com/sharedfiles/filedetails/?id=1095539883
+http://steamcommunity.com/sharedfiles/filedetails/?id=1272186038
 
 GitHub Download:
 https://github.com/RandolphCherrypepper/RemoveFromAnythingOutfit/releases/
