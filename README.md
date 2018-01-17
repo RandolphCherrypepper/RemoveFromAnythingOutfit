@@ -1,5 +1,5 @@
 Remove From Anything Outfit
-ny Randolph Cherrypepper
+by Randolph Cherrypepper
 
 This mod is meant for XML modders.
 
