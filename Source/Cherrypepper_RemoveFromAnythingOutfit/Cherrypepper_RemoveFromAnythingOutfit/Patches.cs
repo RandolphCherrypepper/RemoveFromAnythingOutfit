@@ -1,6 +1,6 @@
 ﻿using RimWorld;
 using Verse;
-using Harmony;
+using HarmonyLib;
 using System.Reflection;
 
 namespace Randolph_Cherrypepper
@@ -10,7 +10,7 @@ namespace Randolph_Cherrypepper
     {
         static Main()
         {
-            var harmony = HarmonyInstance.Create("com.randolphcherrypepper.rimworld.mod.removefromanythingoutfit");
+            var harmony = new Harmony("com.randolphcherrypepper.rimworld.mod.removefromanythingoutfit");
             harmony.PatchAll(Assembly.GetExecutingAssembly());
         }
     }
