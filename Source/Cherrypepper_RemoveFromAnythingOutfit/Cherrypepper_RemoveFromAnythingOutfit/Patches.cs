@@ -35,8 +35,8 @@ namespace Randolph_Cherrypepper
             }
 
             // Find the Anything outfit. It should be the first, but let's be proper about it and check the identifying label.
-            Outfit outfitAnything = null;
-            foreach (Outfit outfit in __instance.AllOutfits)
+            ApparelPolicy outfitAnything = null;
+            foreach (ApparelPolicy outfit in __instance.AllOutfits)
             {
                 if (outfit.label == outfitAnythingLabel)
                 {
